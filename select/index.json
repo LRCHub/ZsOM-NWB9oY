@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "アルゴリズム",
   "base_artist": "安野希世乃",
-  "createdAt": "2026-03-10T09:20:46.824857Z",
+  "createdAt": "2026-03-25T10:09:47.859646Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -35,6 +35,15 @@
       "artist": "安野希世乃",
       "has_synced": false,
       "path": "select/pl_01_アルゴリズム_安野希世乃.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "アルゴリズム",
+      "artist": "安野希世乃",
+      "has_synced": false,
+      "path": "select/localdb_01_アルゴリズム_安野希世乃.txt",
+      "repo_name": "ZsOM-NWB9oY"
     }
   ]
 }
